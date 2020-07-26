@@ -2,8 +2,6 @@
 import SwiftUI
 import PlaygroundSupport
 
-// new from iPad
-
 // example from 
 // https://www.simpleswiftguide.com/how-to-build-a-circular-progress-bar-in-swiftui/
 
